@@ -4,11 +4,13 @@
   margin: 0;
   font-family: "Poopins", sans-serif;
 }
-
+body {
+  background-color: black;
+  min-height: 100vh;
+}
 .hero {
   width: 100%;
   height: 100vh;
-  background-color: black;
   background-image: url(images/sad1.jpeg);
   background-position: center;
   background-size: cover;
