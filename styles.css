@@ -6,10 +6,11 @@
 .hero {
   width: 100%;
   height: 100vh;
-  background-image: url(images/image.png);
+  background-image: url(images/couplebg.jpg);
   background-position: center;
   background-size: cover;
   position: relative;
+  z-index: 100;
 }
 
 .navbar {
@@ -23,7 +24,6 @@
 
 .logo {
   width: 140px;
-  cursor: pointer;
 }
 
 .navbar ul li {
@@ -50,29 +50,29 @@
 }
 
 .left h1 {
-  font-size: 90px;
-  color: #fff;
-  line-height: 110px;
+  font-size: 50px;
+  color: #ffffff;
+  line-height: 65px;
   float: left;
 }
 
 .right {
   float: right;
-  margin-right: 6%;
-  margin-top: 120px;
+  margin-right: 10%;
+  margin-top: 50px;
   display: flex;
   align-items: center;
 }
 
 .right p {
   font-size: 18px;
-  color: #5f5f5f;
-  font-weight: 500;
+  color: #ffffff;
+  font-weight: 650;
   font-family: sans-serif;
-  margin-right: 15px;
+  margin-right: 6px;
 }
 
 #icon {
-  width: 80px;
+  width: 90px;
   cursor: pointer;
 }
