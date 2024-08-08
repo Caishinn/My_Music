@@ -9,7 +9,7 @@
   width: 100%;
   height: 100vh;
   background-color: black;
-  background-image: url(images/couplebg.jpg);
+  background-image: url(images/heino.jpeg);
   background-position: center;
   background-size: cover;
   position: relative;
@@ -19,14 +19,14 @@
 .navbar {
   width: 88%;
   margin: auto;
-  padding: 15px 0;
+  padding: 14px 0;
   display: flex;
   align-items: center;
   justify-content: space-between;
 }
 
 .logo {
-  width: 160px;
+  width: 150px;
 }
 
 .navbar ul li {
@@ -45,24 +45,24 @@
 .content {
   width: 100%;
   position: absolute;
-  top: 30%;
+  top: 35%;
 }
 
 .left {
-  margin-left: 10%;
+  margin-left: 5%;
 }
 
 .left h1 {
   font-size: 50px;
   color: #ffffff;
-  line-height: 65px;
+  line-height: 60px;
   float: left;
 }
 
 .right {
   float: right;
-  margin-right: 10%;
-  margin-top: 70px;
+  margin-right: 5%;
+  margin-top: 65px;
   display: flex;
   align-items: center;
 }
