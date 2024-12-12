@@ -19,7 +19,7 @@ body {
 }
 
 .navbar {
-  width: 88%;
+  width: 85%;
   margin: auto;
   padding: 0px 0;
   display: flex;
@@ -28,10 +28,10 @@ body {
 }
 
 .logo {
-  width: 150px;
+  width: 180px;
 }
 
-.navbar ul li {
+/*.navbar ul li {
   list-style: none;
   display: inline-block;
   margin: 0 15px;
@@ -42,7 +42,7 @@ body {
   color: #fff;
   font-weight: bold;
   font-family: sans-serif;
-}
+}*/
 
 .content {
   width: 100%;
@@ -55,9 +55,9 @@ body {
 }
 
 .left h1 {
-  font-size: 32px;
+  font-size: 34px;
   color: #ffffffce;
-  line-height: 50px;
+  line-height: 60px;
   float: left;
 }
 
